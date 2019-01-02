@@ -1,2 +1,6 @@
-# StockManagement
-OOP yardımıyla Stok Giriş Çıkış Takip Multil-Languagle Destekli Windows Form . İçerdiği Teknolojiler : ADO.NET,JSON
+# stokTakip
+Telekomünikasyon ürünlerinin stok takibinin yapılabildiği çoklu dil destekli Windows Forms uygulaması. 
+
+İçerdiği teknolojiler: ADO.NET, JSON, C#, TSQL
+
+
